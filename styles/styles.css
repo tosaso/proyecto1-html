@@ -132,7 +132,7 @@ body{
 }
 
 #desplegar:checked ~ .menu-desplazable {
-	transform: translate(-89.7%);
+	transform: translate(-93.3%);
 }
 
 /*   MENU HAMBURGUESA */

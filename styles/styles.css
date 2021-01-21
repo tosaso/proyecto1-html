@@ -3,7 +3,6 @@ html{
 }
 
 * {
-	box-sizing: border;
 	margin: 0;
 	padding: 0;
 }
@@ -228,7 +227,7 @@ body{
 	/*	padding: 1em 1em; */
 	/* position: relative; */
 	height: 75rem;
-	width: 100%
+	width: 100%;
 	top: 50px;
 	left: 0;
 }
@@ -250,7 +249,7 @@ body{
 
 
 .div-podcast {
-	margin-top: 1em 0 ;
+	margin-top: 1em 0;
 }
 
 .podcast{
@@ -328,7 +327,7 @@ svg {
 	/*	padding: 1em 1em; */
 	/* position: relative; */
 	height: 340px;
-	width: 100%
+	width: 100%;
 	top: 50px;
 	left: 0;
 }
@@ -458,9 +457,10 @@ svg {
 
 	/* INVITADAS */
 	.grupo-fotos{
-		display: flex
+		display: flex;
 		max-width: 1200px;
 	}
+
 	#invitadas img{
 		width: 33%
 	}
